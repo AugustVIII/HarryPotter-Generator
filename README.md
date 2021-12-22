@@ -1,4 +1,4 @@
-# Harry Potter-style text generation (ruGPT-3)
+# Harry Potter-style text generation
 
 The model was trained on the Harry Potter books with fine-tune GPT-3 (sberbank-ai/rugpt3small_based_on_gpt2)
 
